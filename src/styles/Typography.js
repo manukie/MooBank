@@ -44,6 +44,20 @@ export const HeadlineStyles = css`
     
 `
 
+export const StyledMoo = styled.h1`
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3rem;
+    color: var(--Color-Primary-1);
+    letter-spacing: 1px;
+`
+
+export const StyledBank = styled.h1`
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--Color-Gray-4);
+`
+
 export const StyledHeadline1 = styled.h1`
     ${HeadlineStyles};   
 `
