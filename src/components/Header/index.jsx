@@ -1,6 +1,6 @@
 import { StyledContainer } from "../../styles/grid";
 import { StyledBank, StyledMoo } from "../../styles/Typography";
-import { StyledHeader } from "./styles";
+import { StyledHeader } from "./style";
 
 export const Header = () => {
    return (

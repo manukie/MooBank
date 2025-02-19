@@ -1,6 +1,6 @@
 import styled, { css } from "styled-components"
 
-export const CreateButton = styled.button`
+export const StyledCreateButton = styled.button`
     font-family: var(--Font-Primary);
     font-size: 1rem;
     font-weight: 700;
@@ -9,7 +9,7 @@ export const CreateButton = styled.button`
     border-radius: 8px;
 `
 
-export const DeleteButton = styled.button`
+export const StyledDeleteButton = styled.button`
     font-family:var(--Font-Primary);
     font-size: 0.825rem;
     color: var(--Color-Gray-4);
